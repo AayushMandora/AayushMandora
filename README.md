@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Mandora</h1>
-<h3 align="center">I am Learning MERN stack.</h3>
+<h3 align="center">I am MERN stack Developer.</h3>
 
 - 🌱 I’m currently learning **MERN**
 
