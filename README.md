@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aayush Mandora</h1>
-<h3 align="center">I am MERN stack Developer.</h3>
 
 - 🌱 I’m **MERN STACK DEVELOPER**
 
