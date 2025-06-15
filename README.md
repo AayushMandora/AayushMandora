@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **aayushmandora76@gmail.com**
 
-- ⚡ Fun fact **I think I'm Roster.**
+- ⚡ Fun fact **I think I can do Stand-Up comedy better.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
