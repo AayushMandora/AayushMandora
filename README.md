@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushmandora" alt="aayushmandora" /></a> </p>
 
-- 🔭 I’m currently working on **IO Game**
+- 🔭 I’m currently working on **SaaS Platforms**
 
-- 🌱 I’m currently learning **NEXT.JS**
+- 🌱 I’m currently learning **AGENTIC AI**
 
 - 👯 I’m looking to collaborate on **NEXT.JS**
 
