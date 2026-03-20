@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Mandora</h1>
-<h3 align="center">Full-stack developer passionate about scalable solutions.</h3>
+<h3 align="center">Full-Stack Developer || Building SaaS Platforms & Marketplaces Platforms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmandora&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmandora" /> </p>
 
